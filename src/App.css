@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+h1, h3 {
+  color: rgb(255, 255, 255);
+}
+.info {
+  margin-top: 0;
+}
+.wetherBox {
+   height: 100vh;
+  background-color: darkcyan;
+}
+
+
+
+
